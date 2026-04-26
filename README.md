@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lindapu-1 from Hong Kong, and I am going to graduate in 2026.
+- 👋 Hi, I’m Ruiling Pu from The University of Hong Kong, and I am going to graduate in 2026.
 - 👀 I have started my AIGC study in 2023 summer, and I am interested in AI for media/arts. I’m looking to collaborate on disccusing learning! You can reach me by email lindapu@connect.hku.hk
 
 <!---
